@@ -1,12 +1,7 @@
 # Hi there, I'm ArossorA (Kimss) 👋
 
 <p align="center">
-  <img 
-    src="[https://scontent.fbkk12-4.fna.fbcdn.net/v/t39.30808-6/468079420_2208055062942942_3872219236785258984_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=du9rax5cdWIQ7kNvgEEOhOj&_nc_oc=AdhzhzPuJ0kp_UwWCgiagR7aEQ2TzB2jGflp0bepkfkjZwY3gcdnyHU1mTDo7rFkDcqTNjTqZI1INYitn3Ml3sOi&_nc_zt=23&_nc_ht=scontent.fbkk12-4.fna&_nc_gid=AK1Iip1nAQBzdvtvAWJE_ns&oh=00_AYFklsnnXQE2BsmrUWd9bS62UP2QDun1qqleRH7TYrPu0A&oe=67D1A72E](https://scontent.fbkk2-7.fna.fbcdn.net/v/t39.30808-6/491417634_2321747021573745_3326673395290352038_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=qK1LV5zNb68Q7kNvwEiIyUF&_nc_oc=AdmSJJyzuAYDOCSMiZVBo3U5jbSLt5NC-7Hz2VLzlSTISgsYds9kWWrPHM3L1t3gqfo&_nc_zt=23&_nc_ht=scontent.fbkk2-7.fna&_nc_gid=I_QYjm4xnfX6sFGs0iIFnw&oh=00_AfMHCA58RPJokquEoef--Tz2bMTTF_IC50KX3m3F-i3-vA&oe=6856A9B5)" 
-    alt="ArossorA's profile picture" 
-    width="250px"
-    style="border-radius: 50%;"
-  />
+ <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://scontent.fbkk2-7.fna.fbcdn.net/v/t39.30808-6/491417634_2321747021573745_3326673395290352038_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=cc71e4&amp;_nc_ohc=qK1LV5zNb68Q7kNvwEiIyUF&amp;_nc_oc=AdmSJJyzuAYDOCSMiZVBo3U5jbSLt5NC-7Hz2VLzlSTISgsYds9kWWrPHM3L1t3gqfo&amp;_nc_zt=23&amp;_nc_ht=scontent.fbkk2-7.fna&amp;_nc_gid=I_QYjm4xnfX6sFGs0iIFnw&amp;oh=00_AfMHCA58RPJokquEoef--Tz2bMTTF_IC50KX3m3F-i3-vA&amp;oe=6856A9B5" width="651" height="814">
 </p>
 
 <h2 align="center">🚀 Full Stack Developer 🚀</h2>
